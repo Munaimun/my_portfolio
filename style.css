@@ -934,7 +934,7 @@ body.dark-theme{
 }
 @media screen and (max-width: 380px){
   .projects__card{
-    margin-right: 6%;
+    margin-right: 9%;
   }
   .designer{
     margin-left: 20%;
