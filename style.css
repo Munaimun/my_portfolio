@@ -719,6 +719,7 @@ body.dark-theme{
 }
 .contact__input::placeholder{
   color: var(--text-color-light);
+  font-size: 5px;
   transition: opacity .4s;
 }
 .contact__input:focus{
